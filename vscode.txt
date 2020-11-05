@@ -1,0 +1,19 @@
+{
+    "window.zoomLevel": -1,
+    "editor.fontSize": 16,
+    "terminal.integrated.fontSize": 16,
+    "explorer.openEditors.visible":15,
+    // "explorer.openEditors.dynamicHeight":true,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "vscode.typescript-language-features"
+    // },
+    "php.validate.executablePath": "C:\\xampp\\php\\php.exe",
+    "php.validate.enable": false,
+    // "php.validate.run": "onSave",
+    "php.executablePath": "C:\\xampp\\php\\php.exe",
+    "editor.minimap.enabled": false,
+    "editor.formatOnSave": false,
+}
